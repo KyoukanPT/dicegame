@@ -4,8 +4,8 @@
 
 <strong>The rules of the game are :</strong>
 <br>
-- The player with the highest die number wins
-- If the dice numbers are the same, it's a draw
-- To play again, click on the "Play Again" button
+- The player with the highest die number wins.
+- If the dice numbers are the same, it's a draw.
+- To play again, click on the "Play Again" button.
 
 Live page --> https://kyoukanpt.github.io/dicegame/
