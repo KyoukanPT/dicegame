@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -16,7 +15,7 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 7.5rem;
   color: #fc8210;
@@ -25,7 +24,7 @@ h1 {
 p {
   font-size: 2rem;
   color: #ffd8a6;
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
 }
 
 img {
@@ -50,14 +49,13 @@ button h4 {
   vertical-align: middle;
   color: white;
   padding-top: 5%;
-
 }
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #eeeeee;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   font-weight: bold;
 }
 
