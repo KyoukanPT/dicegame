@@ -5,4 +5,4 @@
 <strong>The rules of the game are :</strong>
 <br>
 - The dice with higher number wins
-- To play again, click on the "Play again" button
+- To play again, click on the "Play Again" button
