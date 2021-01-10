@@ -4,6 +4,8 @@
 
 <strong>The rules of the game are :</strong>
 <br>
-- The dice with the higher number wins
+- The player with the higher number wins
 - If the dice numbers are the same, it's a draw
 - To play again, click on the "Play Again" button
+
+Live page --> https://kyoukanpt.github.io/dicegame/
