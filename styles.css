@@ -35,6 +35,7 @@ button {
   width: max-content;
   margin: 5% 39% 5%;
   font-weight: bolder;
+  background-color: orangered;
 }
 
 .reload-button {
